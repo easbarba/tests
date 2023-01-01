@@ -1,6 +1,6 @@
 # Tests
 
-Learning Java by testing its features. 
+Learning Java features through testing. 
 
 ## Container
 
